@@ -6,6 +6,7 @@ Using Google SDK and  Gemini ai models  along with yolo model to detect, analyze
 ### Beyond detection, PadWasteGuard performs location-aware risk assessment, analyzing population exposure, proximity to water sources, and availability of waste-management facilities. It then automatically generates a professional, action-oriented report that highlights danger levels, urgency, and recommended cleanup actions.
 
 ### Built with a direct execution pipeline (no async delays), PadWasteGuard delivers immediate results, making it suitable for smart city sanitation, municipal monitoring, environmental research, and public health applications.
+<img width="1024" height="448" alt="image" src="https://github.com/user-attachments/assets/ae7cd528-1bc0-484c-a42c-8e4026337b06" />
 
 ## Project Structure
 PadWasteGuard/   
