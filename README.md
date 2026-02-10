@@ -8,26 +8,26 @@ Using Google SDK and  Gemini ai models  along with yolo model to detect, analyze
 ### Built with a direct execution pipeline (no async delays), PadWasteGuard delivers immediate results, making it suitable for smart city sanitation, municipal monitoring, environmental research, and public health applications.
 
 ## Project Structure
-PadWasteGuard/
-│
-├── Config
-│   ├── API keys & model configuration
-│
-├── WorkingVisionAgent
-│   ├── YOLOv8 object detection
-│   ├── Gemini image-based waste analysis
-│
-├── WorkingLocationAgent
-│   ├── Location risk assessment
-│   ├── Facility & population analysis
-│
-├── WorkingReportAgent
-│   ├── Professional report generation
-│
-├── PadWasteGuardWorking
-│   ├── Orchestrates full pipeline
-│   ├── Single & batch image processing
-│
-└── Demo Execution
-    ├── Sample image analysis
-    ├── Report & summary output
+PadWasteGuard/   
+│  
+├── Config  
+│   ├── API keys & model configuration  
+│  
+├── WorkingVisionAgent  
+│   ├── YOLOv8 object detection  
+│   ├── Gemini image-based waste analysis  
+│  
+├── WorkingLocationAgent  
+│   ├── Location risk assessment  
+│   ├── Facility & population analysis    
+│  
+├── WorkingReportAgent  
+│   ├── Professional report generation  
+│   
+├── PadWasteGuardWorking  
+│   ├── Orchestrates full pipeline  
+│   ├── Single & batch image processing   
+│  
+└── Demo Execution  
+    ├── Sample image analysis  
+    ├── Report & summary output  
